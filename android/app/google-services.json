@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414679428615",
+    "project_id": "origo-hospital-management",
+    "storage_bucket": "origo-hospital-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414679428615:android:9d5cb7c8a1bc10b61204a2",
+        "android_client_info": {
+          "package_name": "com.example.hmsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414679428615-hbl0vo04d8qkl60im0bpr9308h5rhi0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHY6daOmQamuEg_e0pCMaB_D68NBLMDx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414679428615-hbl0vo04d8qkl60im0bpr9308h5rhi0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
